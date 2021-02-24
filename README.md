@@ -6,3 +6,13 @@ You have to use commands - left , right , north and south to move the tiles acco
 SAMPLE SCREENSHOT - 
 
 ![](2048_sample.png)
+
+requirements -
+
+```
+pip install SpeechRecognition
+```
+
+```
+pip install pygame
+```
