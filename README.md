@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/python-3-orange)
+
 # 2048-Voice-Enabled
 Now play the 2048 with voice commands!
 
