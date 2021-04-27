@@ -408,9 +408,4 @@ while(status) :
                 pygame.display.update()
                 
                
-        except Exception as e : pass
-            
-   
-
-  
-          
+        except Exception as e : pass     
